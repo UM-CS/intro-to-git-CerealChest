@@ -3,7 +3,8 @@
 
 ## Here is My Change
 
-The cake is a lie, a big 'ole lie
+~~The cake is a lie, a big 'ole lie~~
+shhhhhhhh
 
 ## 🤓 Course overview and learning outcomes 
 
